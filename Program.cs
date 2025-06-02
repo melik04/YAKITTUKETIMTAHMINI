@@ -1,29 +1,34 @@
+using Microsoft.EntityFrameworkCore;
+using YakitTuketimTahmini.Models; // ApplicationDbContext için
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-builder.Services.AddControllersWithViews();
+// Veritabanı bağlantı dizesi (appsettings.json içindeki adıyla)
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+// Controller + Razor View desteği
+builder.Services.AddControllersWithViews()
+    .AddNewtonsoftJson();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+// Hata yönetimi
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
 
+// Orta katmanlar (middleware)
 app.UseHttpsRedirection();
+app.UseStaticFiles(); // wwwroot klasörünü sunar
 app.UseRouting();
-
 app.UseAuthorization();
 
-app.MapStaticAssets();
-
+// Rotalama
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}")
-    .WithStaticAssets();
-
+    pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();

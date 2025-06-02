@@ -90,3 +90,12 @@ C:\Users\lcadmin\Desktop\BitirmeProjesi\YakitTuketimTahmin\obj\Debug\net9.0\refi
 C:\Users\lcadmin\Desktop\BitirmeProjesi\YakitTuketimTahmin\obj\Debug\net9.0\YakitTuketimTahmin.pdb
 C:\Users\lcadmin\Desktop\BitirmeProjesi\YakitTuketimTahmin\obj\Debug\net9.0\YakitTuketimTahmin.genruntimeconfig.cache
 C:\Users\lcadmin\Desktop\BitirmeProjesi\YakitTuketimTahmin\obj\Debug\net9.0\ref\YakitTuketimTahmin.dll
+C:\Users\lcadmin\Downloads\YAKITTUKETIMTAHMINI\obj\Debug\net9.0\YakitTuketimTahmin.csproj.AssemblyReference.cache
+C:\Users\lcadmin\Downloads\YAKITTUKETIMTAHMINI\obj\Debug\net9.0\YakitTuketimTahmin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcadmin\Downloads\YAKITTUKETIMTAHMINI\obj\Debug\net9.0\YakitTuketimTahmin.AssemblyInfoInputs.cache
+C:\Users\lcadmin\Downloads\YAKITTUKETIMTAHMINI\obj\Debug\net9.0\YakitTuketimTahmin.AssemblyInfo.cs
+C:\Users\lcadmin\Downloads\YAKITTUKETIMTAHMINI\obj\Debug\net9.0\YakitTuketimTahmin.csproj.CoreCompileInputs.cache
+C:\Users\lcadmin\Downloads\YAKITTUKETIMTAHMINI\obj\Debug\net9.0\YakitTuketimTahmin.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lcadmin\Downloads\YAKITTUKETIMTAHMINI\obj\Debug\net9.0\YakitTuketimTahmin.RazorAssemblyInfo.cache
+C:\Users\lcadmin\Downloads\YAKITTUKETIMTAHMINI\obj\Debug\net9.0\YakitTuketimTahmin.RazorAssemblyInfo.cs
+C:\Users\lcadmin\Downloads\YAKITTUKETIMTAHMINI\obj\Debug\net9.0\YakitTuketimTahmin.sourcelink.json

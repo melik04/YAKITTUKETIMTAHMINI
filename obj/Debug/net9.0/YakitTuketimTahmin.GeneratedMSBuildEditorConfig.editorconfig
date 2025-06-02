@@ -1,53 +1,69 @@
 is_global = true
 build_property.TargetFramework = net9.0
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = YakitTuketimTahmin
-build_property.RootNamespace = YakitTuketimTahmin
-build_property.ProjectDir = C:\Users\lcadmin\Desktop\BitirmeProjesi\YakitTuketimTahmin\
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = YakitTuketimTahmini
+build_property.RootNamespace = YakitTuketimTahmini
+build_property.ProjectDir = C:\Users\lcadmin\Downloads\YAKITTUKETIMTAHMINI\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\lcadmin\Desktop\BitirmeProjesi\YakitTuketimTahmin
+build_property.MSBuildProjectDirectory = C:\Users\lcadmin\Downloads\YAKITTUKETIMTAHMINI
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/lcadmin/Desktop/BitirmeProjesi/YakitTuketimTahmin/Views/Home/Index.cshtml]
+[C:/Users/lcadmin/Downloads/YAKITTUKETIMTAHMINI/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lcadmin/Desktop/BitirmeProjesi/YakitTuketimTahmin/Views/Home/Privacy.cshtml]
+[C:/Users/lcadmin/Downloads/YAKITTUKETIMTAHMINI/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lcadmin/Desktop/BitirmeProjesi/YakitTuketimTahmin/Views/Shared/Error.cshtml]
+[C:/Users/lcadmin/Downloads/YAKITTUKETIMTAHMINI/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lcadmin/Desktop/BitirmeProjesi/YakitTuketimTahmin/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/lcadmin/Downloads/YAKITTUKETIMTAHMINI/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lcadmin/Desktop/BitirmeProjesi/YakitTuketimTahmin/Views/Tahmin/Index.cshtml]
+[C:/Users/lcadmin/Downloads/YAKITTUKETIMTAHMINI/Views/Tahmin/Gecmis.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFobWluXEdlY21pcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lcadmin/Downloads/YAKITTUKETIMTAHMINI/Views/Tahmin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFobWluXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lcadmin/Desktop/BitirmeProjesi/YakitTuketimTahmin/Views/_ViewImports.cshtml]
+[C:/Users/lcadmin/Downloads/YAKITTUKETIMTAHMINI/Views/Tahmin/Karsilastir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFobWluXEthcnNpbGFzdGlyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lcadmin/Downloads/YAKITTUKETIMTAHMINI/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lcadmin/Desktop/BitirmeProjesi/YakitTuketimTahmin/Views/_ViewStart.cshtml]
+[C:/Users/lcadmin/Downloads/YAKITTUKETIMTAHMINI/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lcadmin/Desktop/BitirmeProjesi/YakitTuketimTahmin/Views/Shared/_Layout.cshtml]
+[C:/Users/lcadmin/Downloads/YAKITTUKETIMTAHMINI/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-2ewsisz063

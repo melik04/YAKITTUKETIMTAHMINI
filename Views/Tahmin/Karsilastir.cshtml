@@ -1,0 +1,71 @@
+@{
+    ViewData["Title"] = "Araç Karşılaştırma";
+}
+
+<h2>Araç Karşılaştırma</h2>
+
+<form asp-action="Karsilastir" method="post">
+    <div class="row mb-3">
+        <div class="col">
+            <label>Araç 1 Marka:</label>
+            <input name="marka1" class="form-control" />
+        </div>
+        <div class="col">
+            <label>Araç 1 Model:</label>
+            <input name="model1" class="form-control" />
+        </div>
+    </div>
+    <div class="row mb-3">
+        <div class="col">
+            <label>Araç 2 Marka:</label>
+            <input name="marka2" class="form-control" />
+        </div>
+        <div class="col">
+            <label>Araç 2 Model:</label>
+            <input name="model2" class="form-control" />
+        </div>
+    </div>
+    <button type="submit" class="btn btn-primary">Karşılaştır</button>
+</form>
+
+@if (ViewBag.Arac1 != null && ViewBag.Arac2 != null)
+{
+    <hr />
+    <h4>Karşılaştırma Sonucu</h4>
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th></th>
+                <th>Araç 1</th>
+                <th>Araç 2</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Marka</td>
+                <td>@ViewBag.Arac1.Marka</td>
+                <td>@ViewBag.Arac2.Marka</td>
+            </tr>
+            <tr>
+                <td>Model</td>
+                <td>@ViewBag.Arac1.Model</td>
+                <td>@ViewBag.Arac2.Model</td>
+            </tr>
+            <tr>
+                <td>Yıl</td>
+                <td>@ViewBag.Arac1.Yil</td>
+                <td>@ViewBag.Arac2.Yil</td>
+            </tr>
+            <tr>
+                <td>Motor Tipi</td>
+                <td>@ViewBag.Arac1.MotorTipi</td>
+                <td>@ViewBag.Arac2.MotorTipi</td>
+            </tr>
+            <tr>
+                <td>Tahmini Tüketim (L/100km)</td>
+                <td>@ViewBag.Arac1.TahminiTuketim</td>
+                <td>@ViewBag.Arac2.TahminiTuketim</td>
+            </tr>
+        </tbody>
+    </table>
+}

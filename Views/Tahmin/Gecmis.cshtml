@@ -1,0 +1,31 @@
+@model List<YakitTuketimTahmini.Models.Tahmin>
+
+<h2>Tahmin Geçmişi</h2>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Tarih</th>
+            <th>IP</th>
+            <th>Marka</th>
+            <th>Model</th>
+            <th>Yıl</th>
+            <th>Motor Tipi</th>
+            <th>Tahmini Tüketim (L/100km)</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var t in Model)
+        {
+            <tr>
+                <td>@t.Tarih.ToString("g")</td>
+                <td>@t.KullaniciIP</td>
+                <td>@t.Marka</td>
+                <td>@t.Model</td>
+                <td>@t.Yil</td>
+                <td>@t.MotorTipi</td>
+                <td>@t.TahminiTuketim</td>
+            </tr>
+        }
+    </tbody>
+</table>

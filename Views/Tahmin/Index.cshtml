@@ -1,0 +1,31 @@
+@model YakitTuketimTahmini.Models.AracBilgisi
+
+<h2>Yakıt Tüketimi Tahmini</h2>
+
+<form asp-action="Index" method="post">
+    <label>Marka:</label>
+    <input asp-for="Marka" class="form-control" />
+
+    <label>Model:</label>
+    <input asp-for="Model" class="form-control" />
+
+    <label>Yıl:</label>
+    <input asp-for="Yil" class="form-control" />
+
+    <label>Motor Tipi:</label>
+    <select asp-for="MotorTipi" class="form-control">
+        <option>Benzin</option>
+        <option>Dizel</option>
+        <option>Hibrit</option>
+        <option>Elektrik</option>
+    </select>
+
+    <button type="submit" class="btn btn-primary mt-2">Tahmin Et</button>
+</form>
+
+@if (Model?.TahminiTuketim != null)
+{
+    <div class="alert alert-success mt-3">
+        <strong>Tahmini Tüketim:</strong> @Model.TahminiTuketim L/100km
+    </div>
+}
