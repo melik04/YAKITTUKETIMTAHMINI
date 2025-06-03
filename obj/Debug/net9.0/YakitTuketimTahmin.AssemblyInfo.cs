@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("YakitTuketimTahmin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffb79cc8b9c4297739fbb4a368f519319fd4b7af")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3eba091eebde70c5e2dc4ce18b2aa21db8c39d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("YakitTuketimTahmin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("YakitTuketimTahmin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

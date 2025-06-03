@@ -17,53 +17,53 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = YakitTuketimTahmini
 build_property.RootNamespace = YakitTuketimTahmini
-build_property.ProjectDir = C:\Users\lcadmin\Downloads\YAKITTUKETIMTAHMINI\
+build_property.ProjectDir = N:\YAKITTUKETIMTAHMINI\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\lcadmin\Downloads\YAKITTUKETIMTAHMINI
+build_property.MSBuildProjectDirectory = N:\YAKITTUKETIMTAHMINI
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/lcadmin/Downloads/YAKITTUKETIMTAHMINI/Views/Home/Index.cshtml]
+[N:/YAKITTUKETIMTAHMINI/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lcadmin/Downloads/YAKITTUKETIMTAHMINI/Views/Home/Privacy.cshtml]
+[N:/YAKITTUKETIMTAHMINI/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lcadmin/Downloads/YAKITTUKETIMTAHMINI/Views/Shared/Error.cshtml]
+[N:/YAKITTUKETIMTAHMINI/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lcadmin/Downloads/YAKITTUKETIMTAHMINI/Views/Shared/_ValidationScriptsPartial.cshtml]
+[N:/YAKITTUKETIMTAHMINI/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lcadmin/Downloads/YAKITTUKETIMTAHMINI/Views/Tahmin/Gecmis.cshtml]
+[N:/YAKITTUKETIMTAHMINI/Views/Tahmin/Gecmis.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFobWluXEdlY21pcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lcadmin/Downloads/YAKITTUKETIMTAHMINI/Views/Tahmin/Index.cshtml]
+[N:/YAKITTUKETIMTAHMINI/Views/Tahmin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFobWluXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lcadmin/Downloads/YAKITTUKETIMTAHMINI/Views/Tahmin/Karsilastir.cshtml]
+[N:/YAKITTUKETIMTAHMINI/Views/Tahmin/Karsilastir.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFobWluXEthcnNpbGFzdGlyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lcadmin/Downloads/YAKITTUKETIMTAHMINI/Views/_ViewImports.cshtml]
+[N:/YAKITTUKETIMTAHMINI/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lcadmin/Downloads/YAKITTUKETIMTAHMINI/Views/_ViewStart.cshtml]
+[N:/YAKITTUKETIMTAHMINI/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lcadmin/Downloads/YAKITTUKETIMTAHMINI/Views/Shared/_Layout.cshtml]
+[N:/YAKITTUKETIMTAHMINI/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-2ewsisz063

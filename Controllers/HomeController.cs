@@ -1,6 +1,6 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using YakitTuketimTahmin.Models;
+using YakitTuketimTahmini.Models;
 
 namespace YakitTuketimTahmin.Controllers;
 

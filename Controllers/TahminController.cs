@@ -33,7 +33,7 @@ namespace YakitTuketimTahmini.Controllers
                 var result = await response.Content.ReadFromJsonAsync<TahminSonucu>();
                 model.TahminiTuketim = result.Prediction;
 
-                var tahminKaydi = new Tahmin
+                var tahminKaydi = new TahminVerisi
                 {
                     Tarih = DateTime.Now,
                     Marka = model.Marka,
